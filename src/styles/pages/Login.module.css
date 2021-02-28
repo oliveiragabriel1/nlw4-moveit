@@ -3,8 +3,10 @@
   height: 100vh;
   padding: 1rem;
 
-  background: url(/logo/timeup-bg.png) no-repeat top left,
-    linear-gradient(96.07deg, #1887b6 -19.93%, #30c1ff 100%);
+  background: url(/logobd.svg) no-repeat center left,
+    linear-gradient(96.07deg, #131f85 -19.93%, #052bff 100%);
+
+  background-size: 170%;
   color: var(--white);
 
   display: flex;
@@ -13,12 +15,12 @@
 }
 
 .content {
-  width: 50%;
+  width: 100%;
   margin-left: 55%;
   display: grid;
 }
-.content img {
-  height: 120px;
+.content .logoTitle {
+  height: 100px;
 }
 .content strong {
   margin: 5rem 0 2rem;

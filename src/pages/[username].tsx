@@ -33,7 +33,7 @@ export default function Home(props: HomeProps) {
     >
       <div className={styles.container}>
         <Head>
-          <title>{user.name} | TimeUp</title>
+          <title>{user.name} | moveit</title>
         </Head>
 
         {/*<Sidebar />*/}

@@ -31,10 +31,11 @@ export default function Profile() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Home | TimeUp</title>
+        <title>Home | moveit</title>
       </Head>
       <div className={styles.content}>
-        <img src="logo/logo-text.png" alt="Logo" />
+        
+        <img className={styles.logoTitle} src="logo-full.svg" alt="Logo"/>
         <strong>Bem-vindo</strong>
 
         <div className={styles.title}>
