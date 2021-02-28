@@ -65,8 +65,6 @@ This project is for study purposes too, so send me an email telling me what you 
 
 <h2 id="author"> 💻 Author </h2>
 
-<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/71350840?s=400&u=02afaa6318aee076b5e3a398e531296a7fb30dc0&v=4" width="100px;" alt=""/>
-
 By Gabriel Oliveira 👋🏽 Find me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloliveira472/)](https://www.linkedin.com/in/gabrieloliveira472/)
