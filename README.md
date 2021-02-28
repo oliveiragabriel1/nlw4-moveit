@@ -14,14 +14,7 @@
 
 <h1 align="center">
   <img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/login.png" />
-<div style="display: flex; flex-direction: row;">
-  <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/count.png" />
-  <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/home.png" />
-  <div>
-  <div style="display: flex; flex-direction: row;">
-  <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/challenge.png" />
-  <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/level.png" />
-  <div>
+
 </h1>
 
 <h4 align="center"> 
