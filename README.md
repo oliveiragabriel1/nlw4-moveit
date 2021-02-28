@@ -14,7 +14,6 @@
 
 <h1 align="center">
   <img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/login.png" />
-
 </h1>
 
 <h4 align="center"> 
