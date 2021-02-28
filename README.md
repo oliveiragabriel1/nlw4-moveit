@@ -6,13 +6,22 @@
 <p align="center">
  <a href="#objective">Objective</a> •
  <a href="#technologies">Technologies</a> • 
+ <a href="#usage">Usage</a> • 
  <a href="#contribution">Contribution</a> • 
  <a href="#author">Author</a> • 
  <a href="#license">License</a>
 </p>
 
 <h1 align="center">
-  <img width="500" style="border-radius: 10px" height="auto" alt="MoveIt" title="MoveIt" src="public/assets/home.png" />
+  <img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/login.png" />
+<div style="display: flex; flex-direction: row;">
+  <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/count.png" />
+  <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/home.png" />
+  <div>
+  <div style="display: flex; flex-direction: row;">
+  <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/challenge.png" />
+  <img width="400" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/assets/level.png" />
+  <div>
 </h1>
 
 <h4 align="center"> 
@@ -21,17 +30,41 @@
 
 <h2 id="objective" > 🎯 Objective </h2>
 
-Track your time, be more productive and take care of your health. The layout of Move.it is available <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=">here</a>.
+Track your time, be more productive and take care of your health. <a href="https://timeup.vercel.app">TimeUp</a> was developed for time management, as in the pomodoro technique, dividing the work into 25 minute periods. After that time it releases a challenge, which is some stretching for the body or exercise for the eyes. Each challenge has its xp points and, accumulating the points you level up.
+
+The layout of original move.it is available <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=">here</a>.
 
 <h2 id="technologies"> 🛠 Technologies </h2>
 
 The following tools were used in the construction of the project:
 
-- [React](https://reactjs.org)
-- [Next](https://nextjs.org)
-- [Node.js](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org)
+- [NextJS](https://nextjs.org)
+- [NodeJS](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com) or Npm
 - [VSCode](https://code.visualstudio.com)
 - [Git Bash](https://gitforwindows.org/)
+
+<h2 id="usage" > 👷 Usage </h2>
+
+Required! Install git, node and yarn (or npm).
+
+```bash
+# Clone Repository
+$ git clone https://github.com/oliveira-gabriel/nlw4-moveit.git
+
+# Go to server folder
+$ cd timeup
+
+# Install Dependencies
+$ yarn
+
+# Run Aplication
+$ yarn dev
+
+# Access localhost
+http://localhost:3000
+```
 
 <h2 id="contribution"> 🤝 Contribution </h2>
 
@@ -39,9 +72,9 @@ This project is for study purposes too, so send me an email telling me what you 
 
 <h2 id="author"> 💻 Author </h2>
 
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41130364?s=460&u=01388c7e1ce88021742810b20797bfb8a0219d97&v=4" width="100px;" alt=""/>
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/71350840?s=400&u=02afaa6318aee076b5e3a398e531296a7fb30dc0&v=4" width="100px;" alt=""/>
 
-By Gabriel de Oliveira 👋🏽 Find me:
+By Gabriel Oliveira 👋🏽 Find me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloliveira472/)](https://www.linkedin.com/in/gabrieloliveira472/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrieloliveira472@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieloliveira472@gmail.com)](mailto:gabrieloliveira472@gmail.com)
