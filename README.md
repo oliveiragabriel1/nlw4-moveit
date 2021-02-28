@@ -47,7 +47,7 @@ Required! Install git, node and yarn (or npm).
 $ git clone https://github.com/oliveira-gabriel/nlw4-moveit.git
 
 # Go to server folder
-$ cd timeup
+$ cd nlw4-moveit
 
 # Install Dependencies
 $ yarn
